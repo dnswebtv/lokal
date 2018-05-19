@@ -1,59 +1,59 @@
 #EXTM3U
 
 #Lokal TV
-#EXTINF:0 channel-id="100" tvg-id="SCTV" group-title="TV Nasional",SCTV
+#EXTINF:0 channel-id="100" tvg-id="SCTV" group-title="Lokal TV",SCTV
 http://210.210.155.35/session/dd7b6c52-5a8a-11e8-b52a-b82a72d63267/qwr9ew/s/s03/index1.m3u8
 
-#EXTINF:0 channel-id="101" tvg-id="INDOSIAR" group-title="TV Nasional",INDOSIAR
+#EXTINF:0 channel-id="101" tvg-id="INDOSIAR" group-title="Lokal TV",INDOSIAR
 http://210.210.155.35/session/aeb0403c-5a8a-11e8-9332-b82a72d63267/qwr9ew/s/s04/index1.m3u8
 
-#EXTINF:0 channel-id="102" tvg-id="OCHANNEL" group-title="TV Nasional",OCHANNEL
+#EXTINF:0 channel-id="102" tvg-id="OCHANNEL" group-title="Lokal TV",OCHANNEL
 https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
 
-#EXTINF:0 channel-id="103" tvg-id="ANTV" group-title="TV Nasional",ANTV
+#EXTINF:0 channel-id="103" tvg-id="ANTV" group-title="Lokal TV",ANTV
 http://210.210.155.35/session/2aeedd48-5a8b-11e8-b712-b82a72d63267/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:0 channel-id="104" tvg-id="TRANS7" group-title="TV Nasional",TRANS7
+#EXTINF:0 channel-id="104" tvg-id="TRANS7" group-title="Lokal TV",TRANS7
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/index.m3u8
 
-#EXTINF:0 channel-id="105" tvg-id="RCTI" group-title="TV Nasional",RCTI
+#EXTINF:0 channel-id="105" tvg-id="RCTI" group-title="Lokal TV",RCTI
 https://stream.sindonews.net/live/rctioke.m3u8
 
-#EXTINF:0 channel-id="106" tvg-id="MNCTV" group-title="TV Nasional",MNCTV
+#EXTINF:0 channel-id="106" tvg-id="MNCTV" group-title="Lokal TV",MNCTV
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
 
-#EXTINF:0 channel-id="107" tvg-id="TVONE" group-title="TV Nasional",TVONE
+#EXTINF:0 channel-id="107" tvg-id="TVONE" group-title="Lokal TV",TVONE
 http://210.210.155.35/session/a731f0f0-5aba-11e8-b22f-c81f66f89318/qwr9ew/s/s02/index1.m3u8
 
-#EXTINF:0 channel-id="108" tvg-id="BERITASATU" group-title="TV Nasional",BERITASATU
+#EXTINF:0 channel-id="108" tvg-id="BERITASATU" group-title="Lokal TV",BERITASATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
-#EXTINF:0 channel-id="109" tvg-id="JAKTV" group-title="TV Nasional",JAKTV
+#EXTINF:0 channel-id="109" tvg-id="JAKTV" group-title="Lokal TV",JAKTV
 https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
 
-#EXTINF:0 channel-id="110" tvg-id="METROTV" group-title="TV Nasional",METROTV
+#EXTINF:0 channel-id="110" tvg-id="METROTV" group-title="Lokal TV",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w953595613_b1300000_sleng.m3u8
 
-#EXTINF:0 channel-id="111" tvg-id="KOMPAS TV" group-title="TV Nasional",KOMPAS TV
+#EXTINF:0 channel-id="111" tvg-id="KOMPAS TV" group-title="Lokal TV",KOMPAS TV
 http://210.210.155.35/session/58f7a726-5abb-11e8-9074-c81f66f89318/qwr9ew/s/s09/index1.m3u8
 
-#EXTINF:0 channel-id="112" tvg-id="GTV" group-title="TV Nasional",GTV
+#EXTINF:0 channel-id="112" tvg-id="GTV" group-title="Lokal TV",GTV
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
 
-#EXTINF:0 channel-id="113" tvg-id="NET TV" group-title="TV Nasional",NET TV
+#EXTINF:0 channel-id="113" tvg-id="NET TV" group-title="Lokal TV",NET TV
 http://210.210.155.35/session/6d322028-5a92-11e8-9362-c81f66f89318/qwr9ew/s/s08/index1.m3u8
 
-#EXTINF:0 channel-id="114" tvg-id="RTV" group-title="TV Nasional",RTV
+#EXTINF:0 channel-id="114" tvg-id="RTV" group-title="Lokal TV",RTV
 https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
 
-#EXTINF:0 channel-id="115" tvg-id="TRANSTV" group-title="TV Nasional",TRANSTV
+#EXTINF:0 channel-id="115" tvg-id="TRANSTV" group-title="Lokal TV",TRANSTV
 http://210.210.155.35/session/0507ee28-5abb-11e8-9443-c81f66f89318/qwr9ew/s/s05/index1.m3u8
 
-#EXTINF:0 channel-id="116" tvg-id="DW" group-title="TV Nasional",DW
+#EXTINF:0 channel-id="116" tvg-id="DW" group-title="Lokal TV",DW
 https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8
 
-#EXTINF:0 channel-id="117" tvg-id="INEWS" group-title="TV Nasional",INEWS
+#EXTINF:0 channel-id="117" tvg-id="INEWS" group-title="Lokal TV",INEWS
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/index.m3u8
 
-#EXTINF:0 channel-id="118" tvg-id="USEEPRIME" group-title="TV Nasional",USEEPRIME
+#EXTINF:0 channel-id="118" tvg-id="USEEPRIME" group-title="Lokal TV",USEEPRIME
 http://api.useetv.com/sc/useeprime/index.m3u8?stime=20180401142411&etime=20180402002411&encoded=0a7c6c6ef58370d7f68d7
