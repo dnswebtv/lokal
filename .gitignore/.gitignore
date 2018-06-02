@@ -23,13 +23,13 @@ https://stream.sindonews.net/live/rctioke.m3u8
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
 
 #EXTINF:0 channel-id="107" tvg-id="TVONE" group-title="Lokal TV",TVONE
-http://210.210.155.35/session/a731f0f0-5aba-11e8-b22f-c81f66f89318/qwr9ew/s/s02/index1.m3u8
+http://210.210.155.35/session/6739f672-66a5-11e8-9332-b82a72d63267/qwr9ew/s/s02/index1.m3u8
 
 #EXTINF:0 channel-id="108" tvg-id="BERITASATU" group-title="Lokal TV",BERITASATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
 #EXTINF:0 channel-id="109" tvg-id="JAKTV" group-title="Lokal TV",JAKTV
-https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
+https://kmklive-lh.akamaihd.net/i/jaktv_ta_regular@94476/master.m3u8?hdnts=st=1527972761~exp=1527972811~acl=/i/*~hmac=aa2bd1751087d128dcf72b1d33b732c0e82dfb99888282ca967074fad8df47a3
 
 #EXTINF:0 channel-id="110" tvg-id="METROTV" group-title="Lokal TV",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w953595613_b1300000_sleng.m3u8
