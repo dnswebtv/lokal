@@ -44,7 +44,7 @@ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
 http://210.210.155.35/session/6d322028-5a92-11e8-9362-c81f66f89318/qwr9ew/s/s08/index1.m3u8
 
 #EXTINF:0 channel-id="114" tvg-id="RTV" group-title="Lokal TV",RTV
-https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
+https://kmklive-lh.akamaihd.net/i/rtv_ta_regular@137568/master.m3u8?hdnts=st=1528216488~exp=1528216538~acl=/i/*~hmac=e01f90a876697e5e151f8910d7f63797e746f4b78ce2d6ca1dc819a7b326ef5e
 
 #EXTINF:0 channel-id="115" tvg-id="TRANSTV" group-title="Lokal TV",TRANSTV
 http://210.210.155.35/session/0507ee28-5abb-11e8-9443-c81f66f89318/qwr9ew/s/s05/index1.m3u8
