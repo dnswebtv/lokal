@@ -54,6 +54,3 @@ https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8
 
 #EXTINF:0 channel-id="117" tvg-id="INEWS" group-title="Lokal TV",INEWS
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/index.m3u8
-
-#EXTINF:0 channel-id="118" tvg-id="USEEPRIME" group-title="Lokal TV",USEEPRIME
-http://api.useetv.com/sc/useeprime/index.m3u8?stime=20180401142411&etime=20180402002411&encoded=0a7c6c6ef58370d7f68d7
