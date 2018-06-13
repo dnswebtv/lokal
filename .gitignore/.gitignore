@@ -7,9 +7,6 @@ http://210.210.155.35/session/dd7b6c52-5a8a-11e8-b52a-b82a72d63267/qwr9ew/s/s03/
 #EXTINF:0 channel-id="101" tvg-id="INDOSIAR" group-title="Lokal TV",INDOSIAR
 http://210.210.155.35/session/aeb0403c-5a8a-11e8-9332-b82a72d63267/qwr9ew/s/s04/index1.m3u8
 
-#EXTINF:0 channel-id="102" tvg-id="OCHANNEL" group-title="Lokal TV",OCHANNEL
-https://kmklive-lh.akamaihd.net/i/ochannel_ta_geo_my_sg@94478/master.m3u8?hdnts=st=1528216624~exp=1528216674~acl=/i/*~hmac=d1810ce5949519f8da6b4194445b3529f90396c17564bed850f630fb97e20000
-
 #EXTINF:0 channel-id="103" tvg-id="ANTV" group-title="Lokal TV",ANTV
 http://210.210.155.35/session/2aeedd48-5a8b-11e8-b712-b82a72d63267/qwr9ew/s/s07/index1.m3u8
 
