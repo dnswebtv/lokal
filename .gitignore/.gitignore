@@ -37,9 +37,6 @@ http://210.210.155.35/session/58f7a726-5abb-11e8-9074-c81f66f89318/qwr9ew/s/s09/
 #EXTINF:0 channel-id="112" tvg-id="GTV" group-title="Lokal TV",GTV
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
 
-#EXTINF:0 channel-id="112" tvg-id="GTV" group-title="Lokal TV",HBO
-http://185.21.217.29:9100/ape/hbohd/chunks.m3u8?nimblesessionid=50000960&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE4IDc6NTM6NTcgUE0maGFzaF92YWx1ZT0yZ3lzUHVJbG5uNXgwMXhERlBhT3pRPT0mdmFsaWRtaW51dGVzPTI=
-
 #EXTINF:0 channel-id="113" tvg-id="NET TV" group-title="Lokal TV",NET. TV
 http://210.210.155.35/session/6d322028-5a92-11e8-9362-c81f66f89318/qwr9ew/s/s08/index1.m3u8
 
